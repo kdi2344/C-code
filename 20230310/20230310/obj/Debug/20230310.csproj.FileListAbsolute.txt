@@ -1,0 +1,7 @@
+C:\Users\KGA\Desktop\20230310\20230310\bin\Debug\20230310.exe.config
+C:\Users\KGA\Desktop\20230310\20230310\bin\Debug\20230310.exe
+C:\Users\KGA\Desktop\20230310\20230310\bin\Debug\20230310.pdb
+C:\Users\KGA\Desktop\20230310\20230310\obj\Debug\20230310.csproj.AssemblyReference.cache
+C:\Users\KGA\Desktop\20230310\20230310\obj\Debug\20230310.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Desktop\20230310\20230310\obj\Debug\20230310.exe
+C:\Users\KGA\Desktop\20230310\20230310\obj\Debug\20230310.pdb
