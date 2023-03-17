@@ -1,0 +1,7 @@
+C:\Users\KGA\Desktop\20230313_homeWork_operator\bin\Debug\20230313_homeWork_operator.exe.config
+C:\Users\KGA\Desktop\20230313_homeWork_operator\bin\Debug\20230313_homeWork_operator.exe
+C:\Users\KGA\Desktop\20230313_homeWork_operator\bin\Debug\20230313_homeWork_operator.pdb
+C:\Users\KGA\Desktop\20230313_homeWork_operator\obj\Debug\20230313_homeWork_operator.csproj.AssemblyReference.cache
+C:\Users\KGA\Desktop\20230313_homeWork_operator\obj\Debug\20230313_homeWork_operator.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Desktop\20230313_homeWork_operator\obj\Debug\20230313_homeWork_operator.exe
+C:\Users\KGA\Desktop\20230313_homeWork_operator\obj\Debug\20230313_homeWork_operator.pdb
