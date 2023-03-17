@@ -1,0 +1,7 @@
+C:\Users\KGA\Desktop\새 폴더\20230314_1\bin\Debug\20230314_1.exe.config
+C:\Users\KGA\Desktop\새 폴더\20230314_1\bin\Debug\20230314_1.exe
+C:\Users\KGA\Desktop\새 폴더\20230314_1\bin\Debug\20230314_1.pdb
+C:\Users\KGA\Desktop\새 폴더\20230314_1\obj\Debug\20230314_1.csproj.AssemblyReference.cache
+C:\Users\KGA\Desktop\새 폴더\20230314_1\obj\Debug\20230314_1.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Desktop\새 폴더\20230314_1\obj\Debug\20230314_1.exe
+C:\Users\KGA\Desktop\새 폴더\20230314_1\obj\Debug\20230314_1.pdb
