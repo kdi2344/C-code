@@ -1,0 +1,7 @@
+C:\Users\KGA\Desktop\새 폴더\20230315_homeWork_rsp\bin\Debug\20230315_homeWork_rsp.exe.config
+C:\Users\KGA\Desktop\새 폴더\20230315_homeWork_rsp\bin\Debug\20230315_homeWork_rsp.exe
+C:\Users\KGA\Desktop\새 폴더\20230315_homeWork_rsp\bin\Debug\20230315_homeWork_rsp.pdb
+C:\Users\KGA\Desktop\새 폴더\20230315_homeWork_rsp\obj\Debug\20230315_homeWork_rsp.csproj.AssemblyReference.cache
+C:\Users\KGA\Desktop\새 폴더\20230315_homeWork_rsp\obj\Debug\20230315_homeWork_rsp.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Desktop\새 폴더\20230315_homeWork_rsp\obj\Debug\20230315_homeWork_rsp.exe
+C:\Users\KGA\Desktop\새 폴더\20230315_homeWork_rsp\obj\Debug\20230315_homeWork_rsp.pdb
