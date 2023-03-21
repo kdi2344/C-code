@@ -1,0 +1,14 @@
+C:\Users\KGA\Desktop\새 폴더\20230315_homeWork_rsp(switch.ver)\bin\Debug\20230315_homeWork_rsp(switch.ver).exe.config
+C:\Users\KGA\Desktop\새 폴더\20230315_homeWork_rsp(switch.ver)\bin\Debug\20230315_homeWork_rsp(switch.ver).exe
+C:\Users\KGA\Desktop\새 폴더\20230315_homeWork_rsp(switch.ver)\bin\Debug\20230315_homeWork_rsp(switch.ver).pdb
+C:\Users\KGA\Desktop\새 폴더\20230315_homeWork_rsp(switch.ver)\obj\Debug\20230315_homeWork_rsp(switch.ver).csproj.AssemblyReference.cache
+C:\Users\KGA\Desktop\새 폴더\20230315_homeWork_rsp(switch.ver)\obj\Debug\20230315_homeWork_rsp(switch.ver).csproj.CoreCompileInputs.cache
+C:\Users\KGA\Desktop\새 폴더\20230315_homeWork_rsp(switch.ver)\obj\Debug\20230315_homeWork_rsp(switch.ver).exe
+C:\Users\KGA\Desktop\새 폴더\20230315_homeWork_rsp(switch.ver)\obj\Debug\20230315_homeWork_rsp(switch.ver).pdb
+C:\Users\KGA\Desktop\code\20230315_homeWork_rsp(switch.ver)\bin\Debug\20230315_homeWork_rsp(switch.ver).exe.config
+C:\Users\KGA\Desktop\code\20230315_homeWork_rsp(switch.ver)\bin\Debug\20230315_homeWork_rsp(switch.ver).exe
+C:\Users\KGA\Desktop\code\20230315_homeWork_rsp(switch.ver)\bin\Debug\20230315_homeWork_rsp(switch.ver).pdb
+C:\Users\KGA\Desktop\code\20230315_homeWork_rsp(switch.ver)\obj\Debug\20230315_homeWork_rsp(switch.ver).csproj.AssemblyReference.cache
+C:\Users\KGA\Desktop\code\20230315_homeWork_rsp(switch.ver)\obj\Debug\20230315_homeWork_rsp(switch.ver).csproj.CoreCompileInputs.cache
+C:\Users\KGA\Desktop\code\20230315_homeWork_rsp(switch.ver)\obj\Debug\20230315_homeWork_rsp(switch.ver).exe
+C:\Users\KGA\Desktop\code\20230315_homeWork_rsp(switch.ver)\obj\Debug\20230315_homeWork_rsp(switch.ver).pdb
