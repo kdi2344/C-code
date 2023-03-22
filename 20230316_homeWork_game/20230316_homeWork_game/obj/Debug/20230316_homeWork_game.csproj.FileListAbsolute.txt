@@ -1,0 +1,7 @@
+C:\Users\KGA\source\repos\20230316_homeWork_game\bin\Debug\20230316_homeWork_game.exe.config
+C:\Users\KGA\source\repos\20230316_homeWork_game\bin\Debug\20230316_homeWork_game.exe
+C:\Users\KGA\source\repos\20230316_homeWork_game\bin\Debug\20230316_homeWork_game.pdb
+C:\Users\KGA\source\repos\20230316_homeWork_game\obj\Debug\20230316_homeWork_game.csproj.AssemblyReference.cache
+C:\Users\KGA\source\repos\20230316_homeWork_game\obj\Debug\20230316_homeWork_game.csproj.CoreCompileInputs.cache
+C:\Users\KGA\source\repos\20230316_homeWork_game\obj\Debug\20230316_homeWork_game.exe
+C:\Users\KGA\source\repos\20230316_homeWork_game\obj\Debug\20230316_homeWork_game.pdb
