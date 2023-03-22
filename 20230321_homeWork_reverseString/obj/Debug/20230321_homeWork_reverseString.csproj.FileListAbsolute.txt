@@ -1,6 +1,0 @@
-C:\Users\KGA\Desktop\20230321_homeWork_reverseString\bin\Debug\20230321_homeWork_reverseString.exe.config
-C:\Users\KGA\Desktop\20230321_homeWork_reverseString\bin\Debug\20230321_homeWork_reverseString.exe
-C:\Users\KGA\Desktop\20230321_homeWork_reverseString\bin\Debug\20230321_homeWork_reverseString.pdb
-C:\Users\KGA\Desktop\20230321_homeWork_reverseString\obj\Debug\20230321_homeWork_reverseString.csproj.CoreCompileInputs.cache
-C:\Users\KGA\Desktop\20230321_homeWork_reverseString\obj\Debug\20230321_homeWork_reverseString.exe
-C:\Users\KGA\Desktop\20230321_homeWork_reverseString\obj\Debug\20230321_homeWork_reverseString.pdb
