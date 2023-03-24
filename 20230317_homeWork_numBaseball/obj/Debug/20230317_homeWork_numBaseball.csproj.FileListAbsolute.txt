@@ -1,0 +1,7 @@
+C:\Users\KGA\Desktop\code\20230317_homeWork_numBaseball\bin\Debug\20230317_homeWork_numBaseball.exe.config
+C:\Users\KGA\Desktop\code\20230317_homeWork_numBaseball\bin\Debug\20230317_homeWork_numBaseball.exe
+C:\Users\KGA\Desktop\code\20230317_homeWork_numBaseball\bin\Debug\20230317_homeWork_numBaseball.pdb
+C:\Users\KGA\Desktop\code\20230317_homeWork_numBaseball\obj\Debug\20230317_homeWork_numBaseball.csproj.AssemblyReference.cache
+C:\Users\KGA\Desktop\code\20230317_homeWork_numBaseball\obj\Debug\20230317_homeWork_numBaseball.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Desktop\code\20230317_homeWork_numBaseball\obj\Debug\20230317_homeWork_numBaseball.exe
+C:\Users\KGA\Desktop\code\20230317_homeWork_numBaseball\obj\Debug\20230317_homeWork_numBaseball.pdb
