@@ -1,0 +1,7 @@
+C:\Users\KGA\Desktop\code\20230317_homeWork_cardGame\bin\Debug\20230317_homeWork_cardGame.exe.config
+C:\Users\KGA\Desktop\code\20230317_homeWork_cardGame\bin\Debug\20230317_homeWork_cardGame.exe
+C:\Users\KGA\Desktop\code\20230317_homeWork_cardGame\bin\Debug\20230317_homeWork_cardGame.pdb
+C:\Users\KGA\Desktop\code\20230317_homeWork_cardGame\obj\Debug\20230317_homeWork_cardGame.csproj.AssemblyReference.cache
+C:\Users\KGA\Desktop\code\20230317_homeWork_cardGame\obj\Debug\20230317_homeWork_cardGame.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Desktop\code\20230317_homeWork_cardGame\obj\Debug\20230317_homeWork_cardGame.exe
+C:\Users\KGA\Desktop\code\20230317_homeWork_cardGame\obj\Debug\20230317_homeWork_cardGame.pdb
