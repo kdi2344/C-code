@@ -1,0 +1,7 @@
+C:\Users\KGA\Desktop\code\20230320_homeWork_textRPG\bin\Debug\20230320_homeWork_textRPG.exe.config
+C:\Users\KGA\Desktop\code\20230320_homeWork_textRPG\bin\Debug\20230320_homeWork_textRPG.exe
+C:\Users\KGA\Desktop\code\20230320_homeWork_textRPG\bin\Debug\20230320_homeWork_textRPG.pdb
+C:\Users\KGA\Desktop\code\20230320_homeWork_textRPG\obj\Debug\20230320_homeWork_textRPG.csproj.AssemblyReference.cache
+C:\Users\KGA\Desktop\code\20230320_homeWork_textRPG\obj\Debug\20230320_homeWork_textRPG.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Desktop\code\20230320_homeWork_textRPG\obj\Debug\20230320_homeWork_textRPG.exe
+C:\Users\KGA\Desktop\code\20230320_homeWork_textRPG\obj\Debug\20230320_homeWork_textRPG.pdb
