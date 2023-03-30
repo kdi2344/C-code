@@ -1,0 +1,7 @@
+C:\Users\KGA\Desktop\코드\20230327_homeWork_makeStack\bin\Debug\0230327_makeStack.exe.config
+C:\Users\KGA\Desktop\코드\20230327_homeWork_makeStack\bin\Debug\0230327_makeStack.exe
+C:\Users\KGA\Desktop\코드\20230327_homeWork_makeStack\bin\Debug\0230327_makeStack.pdb
+C:\Users\KGA\Desktop\코드\20230327_homeWork_makeStack\obj\Debug\0230327_makeStack.csproj.AssemblyReference.cache
+C:\Users\KGA\Desktop\코드\20230327_homeWork_makeStack\obj\Debug\0230327_makeStack.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Desktop\코드\20230327_homeWork_makeStack\obj\Debug\0230327_makeStack.exe
+C:\Users\KGA\Desktop\코드\20230327_homeWork_makeStack\obj\Debug\0230327_makeStack.pdb
