@@ -1,0 +1,6 @@
+C:\Users\KGA\Desktop\코드\20230324_homeWork_inventory\bin\Debug\20230324_homeWork_inventory.exe.config
+C:\Users\KGA\Desktop\코드\20230324_homeWork_inventory\bin\Debug\20230324_homeWork_inventory.exe
+C:\Users\KGA\Desktop\코드\20230324_homeWork_inventory\bin\Debug\20230324_homeWork_inventory.pdb
+C:\Users\KGA\Desktop\코드\20230324_homeWork_inventory\obj\Debug\20230324_homeWork_inventory.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Desktop\코드\20230324_homeWork_inventory\obj\Debug\20230324_homeWork_inventory.exe
+C:\Users\KGA\Desktop\코드\20230324_homeWork_inventory\obj\Debug\20230324_homeWork_inventory.pdb
